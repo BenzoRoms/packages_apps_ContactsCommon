@@ -20,5 +20,6 @@
     <color name="contact_tile_text_color">#ff202020</color>
     <color name="quick_contact_text_color">#ffffffff</color>
     <color name="text_highlight_color">#3B77E7</color>
+    <color name="back_arrow_icon_tint_color">#ff0288d1</color>
 
 </resources>
